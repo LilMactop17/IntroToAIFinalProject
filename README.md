@@ -26,3 +26,7 @@ Follow these steps to set up and run the application:
    deactivate
    rm -rf .venv
    ```
+Do NOT ctrl click link in terminal, manually open
+```
+http://localhost:5000
+```
