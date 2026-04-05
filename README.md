@@ -21,3 +21,8 @@ Follow these steps to set up and run the application:
    ```bash
    python3 app.py
    ```
+If requirements.txt not found, repair venv
+```bash
+   deactivate
+   rm -rf .venv
+```
