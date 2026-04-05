@@ -23,6 +23,6 @@ Follow these steps to set up and run the application:
    ```
    If requirements.txt not found, repair venv
    ```bash
-      deactivate
-      rm -rf .venv
+   deactivate
+   rm -rf .venv
    ```
